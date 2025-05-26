@@ -5,7 +5,7 @@ This project demonstrates a machine learning approach to predict diabetes using 
 
 ## 📊 Dataset
 
-- **Source**: [CDC Diabetes Health Indicators Dataset (UCI Repository)](https://archive.ics.uci.edu/ml/datasets/diabetes+health+indicators+dataset)
+- **Source**: [CDC Diabetes Health Indicators Dataset (UCI Repository)](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)
 - **Features**: Includes BMI, smoking status, physical health, mental health, sleep time, age, and more.
 - **Target**: Binary indicator of diabetes status.
 
